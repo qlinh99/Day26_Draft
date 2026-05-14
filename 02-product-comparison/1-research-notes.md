@@ -98,7 +98,7 @@ Ghi 3 quan sát ấn tượng nhất khi dùng. Mỗi quan sát kèm tham chiế
 
 - Thời gian phản hồi: 9 giây
 - Có hiển thị "AI đang nghĩ..." / streaming hay đứng yên? có hiển thị AI đang nghĩ gì cụ thể
-- Output dài bao nhiêu (số câu / dòng / từ)? 50 dòng , 607 từ
+- Output dài bao nhiêu (số câu / dòng / từ)? 50 dòng , 412 từ
 - Output có dẫn nguồn không? có 
 - Có hiển thị disclaimer / cảnh báo không? có, "ChatGPT có thể mắc lỗi. Hãy kiểm tra các thông tin quan trọng. Vui lòng tham khảo"
 - Ảnh đã chụp: `screenshots/product-B-2-input.png` + `screenshots/product-B-3-output.png`
